@@ -13,5 +13,6 @@ public class SolarViewHolder extends RecyclerView.ViewHolder{
         super(itemView);
         this.imageView = itemView.findViewById(R.id.imageView);
         this.toolbar = itemView.findViewById(R.id.toolbarItem);
+
     }
 }
